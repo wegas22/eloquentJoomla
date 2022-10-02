@@ -14,7 +14,6 @@
 	</description>
 	<files>
 		<folder>app</folder>
-		<folder>vendor</folder>
 		<filename>composer.json</filename>
 		<filename>composer.lock</filename>
 		<filename>composer-setup.php</filename>
