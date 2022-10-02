@@ -19,5 +19,8 @@
 		<filename>composer-setup.php</filename>
 		<filename>eloquentJoomla.xml</filename>
 		<filename>index.php</filename>
+		<filename>.gitignore</filename>
+		<filename>.git</filename>
+		<filename>README.md</filename>
 	</files>
 </extension>

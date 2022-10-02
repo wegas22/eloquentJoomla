@@ -1,6 +1,6 @@
 <?
 
-namespace Models;
+namespace Wegas\Models;
 use Illuminate\Database\Eloquent\Model;
 
 class ComponentContestsWorks extends Model {

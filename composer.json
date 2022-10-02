@@ -1,5 +1,5 @@
 {
-    "name": "wegas/filter",
+    "name": "wegas/library",
     "description": "---",
     "type": "project",
     "require": {
@@ -10,8 +10,8 @@
     },
     "autoload": {
         "psr-4": {
-            "Controllers\\": "app/controllers/",
-            "Models\\": "app/models/"
+            "Wegas\\Controllers\\": "app/controllers/",
+            "Wegas\\Models\\": "app/models/"
         }
     },
     "config": {

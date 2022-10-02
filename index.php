@@ -1,6 +1,6 @@
 <?php
 require "vendor/autoload.php";
-use Models\Database;
+use Wegas\Models\Database;
 use Illuminate\Database\Capsule\Manager as Capsule;
 
 ini_set('memory_limit', '-1');

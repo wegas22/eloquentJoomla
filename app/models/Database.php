@@ -1,6 +1,6 @@
 <?php
 
-namespace Models;
+namespace Wegas\Models;
 use Illuminate\Database\Capsule\Manager as Capsule;
 
 class Database {
