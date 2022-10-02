@@ -1,0 +1,23 @@
+{
+    "name": "wegas/filter",
+    "description": "---",
+    "type": "project",
+    "require": {
+        "illuminate/database": "5.1.8",
+        "wanfeiyy/dd": "^1.0",
+        "mpdf/mpdf": "v8.0.4",
+        "yoomoney/yookassa-sdk-php": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Controllers\\": "app/controllers/",
+            "Models\\": "app/models/"
+        }
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": true
+        }
+    }
+
+}

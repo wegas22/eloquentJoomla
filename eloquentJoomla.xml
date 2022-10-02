@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<extension method="upgrade" type="library" version="1.0">
+	<name>eloquent Joomla</name>
+	<libraryname>eloquentJoomla</libraryname>
+	<version>1.0.0</version>
+	<creationDate>2022-01-10</creationDate>
+	<author>A.T. WEGAS</author>
+	<authorEmail>wegas22@yandex.ru</authorEmail>
+	<authorUrl>#</authorUrl>
+	<copyright>Copyright (c)2022</copyright>
+	<license>GNU</license>
+	<description>
+		<![CDATA[eloquent joomla]]>
+	</description>
+	<files>
+		<folder>app</folder>
+		<folder>vendor</folder>
+		<filename>composer.json</filename>
+		<filename>composer.lock</filename>
+		<filename>composer-setup.php</filename>
+		<filename>eloquentJoomla.xml</filename>
+		<filename>index.php</filename>
+	</files>
+</extension>
