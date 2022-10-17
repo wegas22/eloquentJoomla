@@ -16,6 +16,15 @@ class ComponentContestsWorks extends Model {
 	{
 			return $this->hasOne(ComponentContestsNominations::class, 'id', 'nomination_id');
 	}
+	public function contest()
+	{
+			return $this->hasOne(ComponentContestsItems::class, 'id', 'contest_id');
+	}
+	public function category()
+	{
+			return $this->hasOne(ComponentContestsCategory::class, 'id', 'category_id');
+	}
+
 }
 
 
