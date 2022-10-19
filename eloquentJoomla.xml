@@ -14,13 +14,13 @@
 	</description>
 	<files>
 		<folder>app</folder>
+		<folder>.git</folder>
 		<filename>composer.json</filename>
 		<filename>composer.lock</filename>
 		<filename>composer-setup.php</filename>
 		<filename>eloquentJoomla.xml</filename>
 		<filename>index.php</filename>
 		<filename>.gitignore</filename>
-		<filename>.git</filename>
 		<filename>README.md</filename>
 	</files>
 </extension>
